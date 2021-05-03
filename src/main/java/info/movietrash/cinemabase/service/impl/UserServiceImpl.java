@@ -4,6 +4,7 @@ import info.movietrash.cinemabase.converter.UserConverter;
 import info.movietrash.cinemabase.dto.UserDto;
 import info.movietrash.cinemabase.exception.ErrorMessages;
 import info.movietrash.cinemabase.model.User;
+import info.movietrash.cinemabase.repository.ProfileRepository;
 import info.movietrash.cinemabase.repository.UserRepository;
 import info.movietrash.cinemabase.service.UserService;
 import lombok.AllArgsConstructor;
